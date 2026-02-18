@@ -32,7 +32,7 @@ InvoiceCrawler is a **Windows desktop application** that automatically scans and
 
 | Portal | Method | Features |
 |--------|--------|----------|
-| **Amazon** DE, FR, IT, ES, UK | Web Scraping | Invoices, Credit Notes, TOTP support |
+| **Amazon** DE, FR, IT, ES, UK | Web Scraping | Invoices, Credit Notes, TOTP support, Consumer & Business accounts |
 | **MediaMarkt** | IMAP Email | Invoices from order confirmation emails |
 | **Saturn** | IMAP Email | Invoices from order confirmation emails |
 | **Otto** | Web Scraping | Invoices |
@@ -45,7 +45,7 @@ InvoiceCrawler is a **Windows desktop application** that automatically scans and
 
 ## Features
 
-- **Multi-Portal Support** - Manage credentials for multiple shops in one place
+- **Multi-Portal Support** - Manage credentials for multiple shops in one place, with support for multiple accounts per portal
 - **Automatic Invoice Detection** - Scans order history or email inboxes to find invoices
 - **PDF Download** - Downloads invoices as properly named PDF files
 - **Credit Note Detection** - Separately tracks invoices and credit notes (Gutschriften)
